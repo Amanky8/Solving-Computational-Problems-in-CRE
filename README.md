@@ -13,4 +13,4 @@ This repository focuses on solving computational problems in the domain of **Che
 
 ## Poster  
 You can download the project poster here:  
-[📄 Download Poster](./Poster.pdf)  
+[📄 Download Poster](./Poster.png)  
